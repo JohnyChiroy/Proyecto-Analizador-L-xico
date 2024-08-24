@@ -1,0 +1,20 @@
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\bin\Debug\analizador léxico.exe.config
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\bin\Debug\analizador léxico.exe
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\bin\Debug\analizador léxico.pdb
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\obj\Debug\analizador léxico.csproj.AssemblyReference.cache
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\obj\Debug\analizador_léxico.Analizador.resources
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\obj\Debug\analizador_léxico.Properties.Resources.resources
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\obj\Debug\analizador léxico.csproj.GenerateResource.cache
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\obj\Debug\analizador léxico.csproj.CoreCompileInputs.cache
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\obj\Debug\analizador léxico.exe
+C:\Users\johnychiroy\source\repos\analizador léxico\analizador léxico\obj\Debug\analizador léxico.pdb
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\bin\Debug\analizador léxico.exe.config
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\bin\Debug\analizador léxico.exe
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\bin\Debug\analizador léxico.pdb
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\obj\Debug\analizador léxico.csproj.AssemblyReference.cache
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\obj\Debug\analizador_léxico.Analizador.resources
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\obj\Debug\analizador_léxico.Properties.Resources.resources
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\obj\Debug\analizador léxico.csproj.GenerateResource.cache
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\obj\Debug\analizador léxico.csproj.CoreCompileInputs.cache
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\obj\Debug\analizador léxico.exe
+C:\Cod_C#\analizador léxico\analizador léxico\analizador léxico\obj\Debug\analizador léxico.pdb

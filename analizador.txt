@@ -1,0 +1,20 @@
+include <iostream>
+using namespace std;
+int main() {
+
+
+
+int var4 = 23;
+
+while ( 23 == var4 )
+
+{ 
+
+ cout << "JOHNY CHIROY" << endl;
+
+} 
+
+
+
+return 0;
+}
